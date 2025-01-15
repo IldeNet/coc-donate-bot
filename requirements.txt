@@ -1,7 +1,6 @@
 pyautogui
-time
-PIL.Image
+Pillow
 pygetwindow
 imutils
 numpy
-cv2
+opencv-python
