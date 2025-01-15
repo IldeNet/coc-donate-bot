@@ -43,3 +43,9 @@ See `\helpers` and `mousecurrentpixel.py` for helpers and add them there
 <span style="color:red;">\*</span> Occasionally in `Cdb_OpenBarracks.py` it glitches and cant find `trainTroops2.png`
 
 <span style="color:red;">\*</span> On large resolutions `Cdb_TrainTroop.py` isn't working with the current barb image
+
+### Pasos para usarlo
+Instalar dependencias con:
+pip install -r requirements.txt
+
+
